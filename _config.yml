@@ -1,4 +1,3 @@
-layout_spectrum: 0.6103337425738573
 typography_spectrum: 0.3484221042599529
 color:
   brandStrength: 0.16590064275078475
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.6103337425738573
 name: Tuntmore
 title: 'Welcome, to Tuntmore'
+description: Exceptional friendship abound.
