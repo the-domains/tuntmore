@@ -6,9 +6,9 @@ color:
   saturation: 0.3861647970043123
   rhythmicContrast: 0.4028703144285828
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Tuntmore
